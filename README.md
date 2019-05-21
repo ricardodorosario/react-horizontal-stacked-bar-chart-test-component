@@ -1,16 +1,17 @@
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ricardodorosario/react-horizontal-stacked-bar-chart-example.svg?style=flat-square)
 [![license](https://img.shields.io/github/license/ricardodorosario/react-horizontal-stacked-bar-chart-example.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
-# react-horizontal-stacked-bar-chart-example
+# react-horizontal-stacked-bar-chart-test-component
 
-React horizontal stacked bar responsive chart component examples.
+A project to test the component react-horizontal-stacked-bar-responsive-chart.
+If you need a example, please use [this example.](https://github.com/ricardodorosario/react-horizontal-stacked-bar-chart-example)
 
 ## Usage
 
 - clone this project
 
 ```bash
-git clone https://github.com/ricardodorosario/react-horizontal-stacked-bar-chart-example.git
+git clone https://github.com/ricardodorosario/react-horizontal-stacked-bar-chart-test-component.git
 ```
 
 - clone react-horizontal-stacked-bar-chart
@@ -36,7 +37,7 @@ npm link
 - call link into this project
 
 ```bash
-cd ../react-horizontal-stacked-bar-chart-example
+cd ../react-horizontal-stacked-bar-chart-test-component
 npm link react-horizontal-stacked-bar-chart
 ```
 
