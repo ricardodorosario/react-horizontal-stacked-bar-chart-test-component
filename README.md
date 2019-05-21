@@ -1,5 +1,5 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/ricardodorosario/react-horizontal-stacked-bar-chart-example.svg?style=flat-square)
-[![license](https://img.shields.io/github/license/ricardodorosario/react-horizontal-stacked-bar-chart-example.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/ricardodorosario/react-horizontal-stacked-bar-chart-test-component.svg?style=flat-square)
+[![license](https://img.shields.io/github/license/ricardodorosario/react-horizontal-stacked-bar-chart-test-component.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 # react-horizontal-stacked-bar-chart-test-component
 
