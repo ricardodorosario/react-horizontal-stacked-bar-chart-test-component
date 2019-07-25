@@ -4,7 +4,7 @@
 # react-horizontal-stacked-bar-chart-test-component
 
 A project to test the component react-horizontal-stacked-bar-responsive-chart.
-If you need a example, please use [this example.](https://github.com/ricardodorosario/react-horizontal-stacked-bar-chart-example)
+If you need an example, please try [this example.](https://github.com/ricardodorosario/react-horizontal-stacked-bar-chart-example)
 
 ## Usage
 
