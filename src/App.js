@@ -2,9 +2,9 @@ import React from "react";
 import ReactDOM from "react-dom";
 import HSBar from "react-horizontal-stacked-bar-chart";
 
-import "./styles.css";
+import "./style.css";
 
-export class App extends React.Component {
+export default class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -21,6 +21,8 @@ export class App extends React.Component {
           showTextIn
           showTextUp
           showTextDown
+          outlineWidth={0.5}
+          outlineColor="black"
           id="new_id"
           fontColor="rgb(50,20,100)"
           data={[
@@ -97,6 +99,27 @@ export class App extends React.Component {
           }
         />
         <input value={this.state.value} disabled />
+        <h3>Outlined</h3>
+
+        <HSBar
+          id="hsbarExampleOutlined2"
+          data={[
+            { value: 50, color: "red" },
+            { value: 70, color: "green" },
+            { value: 20, color: "red" },
+            { value: 120, color: "green" },
+            { value: 45, color: "red" },
+            { value: 90, color: "green" },
+            { value: 200, color: "red" },
+            { value: 30, color: "green" },
+            { value: 40, color: "blue" }
+          ]}
+          height={40}
+          showTextIn
+          outlineWidth={0.5}
+          outlineColor="black"
+        />
+
         <div className="footer">
           <h4>Contribute:</h4>
           <div>
