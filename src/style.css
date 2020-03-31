@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  color: #393939;
+}
+svg#hsbarExample {
+  border: 2px solid #363636;
+  border-radius: 8px;
+}
+
+div.header {
+  font-size: 24pt;
+  background-color: #c6c6c6;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.footer {
+  background-color: #c6c6c6;
+  padding: 0px;
+  margin: 0px;
+}
+div.footer > h4 {
+  margin-bottom: 0px;
+  padding-top: 10px;
+}
+div.footer > div {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+}
+
+div.footer > div > a {
+  padding-left: 10px;
+}
